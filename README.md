@@ -46,13 +46,13 @@ Key Shortcuts (Left to Right. Top To Bottom):
 \[Browser Back, Browser Forward, Refresh]
 \[Undo, Redo, Ctrl+F]
 
-Bill of Materials
-2x SK6812 MINI-E LEDs
-6x Cherry_MX switches
-6x DSA Keycaps
-4x M3x16mm Screws
-1x XIAO RP2040
-1x Case
+Bill of Materials:\
+2x SK6812 MINI-E LEDs\
+6x Cherry_MX switches\
+6x DSA Keycaps\
+4x M3x16mm Screws\
+1x XIAO RP2040\
+1x Case\
 
-BTW
+BTW\
 Symbol on case is the Justiciar symbol from Lord Of The Mysteries / Lord Of Mysteries / Guǐ Mì Zhī Zhǔ
