@@ -33,3 +33,6 @@ Bill of Materials
 4x M3x16mm Screws
 1x XIAO RP2040
 1x Case
+
+BTW
+Symbol on case is the Justiciar symbol from Lord Of The Mysteries / Lord Of Mysteries / Guǐ Mì Zhī Zhǔ
